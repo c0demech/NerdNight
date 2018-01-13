@@ -19,10 +19,4 @@ main()
 
   char buf1[16];
   char buf2[16] = "To die, to sleep";
-
-   int* ptr1;
-   int* ptr2 = &num1;
-
-  char* ptr3;
-  char* ptr4 = buf1;
 }

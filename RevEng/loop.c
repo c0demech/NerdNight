@@ -14,7 +14,8 @@
 int
 main()
 {
-  for (int i=0; i < 56; i++)
+  int i;
+  for (i=0; i < 56; i++)
   {
     printf("%d\n",i);
   }
